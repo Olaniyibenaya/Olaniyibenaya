@@ -8,6 +8,7 @@ A question that guides my work is: **How can intelligent systems understand cont
 
 - **[Risk-Aware Multi-Agent Check-In System](https://github.com/Olaniyibenaya/risk-aware-multi-agent-system)** — A research prototype using specialised agents, contextual risk assessment, decision review, and conversation memory for mental well-being check-ins. Implemented and evaluated; dissertation writing is in progress.
 - **[Document Q&A Assistant](https://github.com/Olaniyibenaya/document-qa-assistant)** — A RAG prototype for asking questions about uploaded documents, built with FastAPI, Streamlit, LangGraph, ChromaDB, and language models.
+- **[ChatRecipe](https://github.com/Olaniyibenaya/chat-recipe)** — A tool-calling assistant that creates personalised recipes, suggests ingredient substitutions, and answers cooking questions.
 - **[Sentinel Rover](https://github.com/Olaniyibenaya/sentinel-rover)** — An ESP32 rover project combining line following, obstacle avoidance, and a Python navigation simulator.
 - **[AgroSense](https://github.com/Olaniyibenaya/agrosense-iot-project)** — A smart irrigation and crop-monitoring prototype with ESP32 and a Raspberry Pi-ready service layer.
 
